@@ -4,7 +4,7 @@ Please write an interactive program that does the following work:
 
 2. Promote the user to enter a length L. It's guaranteed that L is equal or bigger than the number of digits of N
 
-3. Output the number N to the full length of L. If N is shorter than L, using proper amount of leading zeros.
+3. Output the number N to the full length of L. If N is shorter than L, you should output with proper number of leading zeros.
 
 Example 1:
 ```shell
