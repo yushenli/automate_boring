@@ -18,7 +18,7 @@ This function should take a coordinate of a land and returns how many years ther
 be before the land is erosed. X and Y should be float numbers, and the return value
 should be an integer.
 
-With this function, please write a program and takes a number N, where N is the number
+With this function, please write a program that takes a number N, where N is the number
 of coordinates that the user is going to supply next. Then for each coordindate, tell
 the user the number of years.
 
